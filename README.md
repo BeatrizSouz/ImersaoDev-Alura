@@ -1,10 +1,10 @@
 # ImersaoDev-Alura
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BeatrizSouz/MilDevs-SistemaDeMultas?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/BeatrizSouz/MilDevs-SistemaDeMultas?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/BeatrizSouz/MilDevs-SistemaDeMultas?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/BeatrizSouz/MilDevs-SistemaDeMultas?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/BeatrizSouz/MilDevs-SistemaDeMultas?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/BeatrizSouz/ImersaoDev-Alura?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/BeatrizSouz/ImersaoDev-Alura?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/BeatrizSouz/ImersaoDev-Alura?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/BeatrizSouz/ImersaoDev-Alura?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/BeatrizSouz/ImersaoDev-Alura?style=for-the-badge)
 
 
 > Códigos realizados durante 30/01 até 06/02 na imersão Dev da Alura, sendo como foco a linguagem JavaScript e um aprendizado  de CSS e HTML
